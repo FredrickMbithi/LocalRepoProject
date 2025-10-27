@@ -1,1 +1,5 @@
-﻿Objective: Practice branching, merging, and resolving conflicts. (edited in main branch)
+﻿Objective: Practice branching, merging, and resolving conflicts.
+
+Merged changes:
+- main: (edited in main branch)
+- feature: (edited in feature branch)
